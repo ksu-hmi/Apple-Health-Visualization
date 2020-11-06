@@ -1,2 +1,10 @@
 # Apple-Health-Dashboard
-How to export Apple Health data collected by Apple watch and create data visualization dashboard for clinicians.
+This project shows how to export Apple Health data collected by Apple watch and create a data visualization dashboard for clinicians.
+
+# Installation
+[place holder]
+
+# Desription
+
+# Credits
+Brandon Lade- Fall 2020, Jacqueline Warren- Fall 2020
